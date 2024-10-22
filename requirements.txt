@@ -1,0 +1,6 @@
+customtkinter
+pypdfium2
+Pillow
+easyocr
+pypdf
+pdfplumber

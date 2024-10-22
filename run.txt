@@ -1,0 +1,5 @@
+To use this requirements file:
+Save it as requirements.txt in your project directory.
+2. Open a terminal or command prompt in that directory.
+Run the following command:
+This will install all the necessary dependencies for your project. Note that some of these packages (especially easyocr) might have additional system dependencies, particularly on Windows. If you encounter any issues, you may need to install additional components or use a conda environment instead.
